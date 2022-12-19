@@ -1,0 +1,23 @@
+{
+  "dashboard": {
+    "purchasedAmount": 910,
+    "website": "https://www.nykaa.com"
+  },
+  "courses": [
+    {
+      "title": "PYTHON",
+      "price": 50,
+      "details": {
+        "website": "https://www.preprod.nykaa.com"
+      }
+    },
+    {
+      "title": "CYPRESS",
+      "price": 100
+    },
+    {
+      "title": "JAVA",
+      "price": 100
+    }
+  ]
+}
